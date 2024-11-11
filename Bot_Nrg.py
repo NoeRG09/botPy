@@ -41,4 +41,4 @@ if pre_f1 in ["Si","SI","si"]:
    print(f"{wc}, Wow yo siento que Max Verstapen sera nuevamente campeon")
 
 print(f"Me despido {nomb}, espera proximas actualizaciones")
-print("----BotRoG v1.0 2024----")
+print("----BotRoG v1.0.0 2024----")
